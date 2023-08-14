@@ -1,0 +1,35 @@
+Operational Reports- tailored to address specific challenges and objectives within an organization. 
+Employee Productivity Project: 
+	Reports can analyze employee performance metrics, such as work output, task completion times, and attendance.
+		- What is the average output per employee for the past quarter?
+		- What is the total Averge for the 4 quarters  
+		- Are there any specific teams or departments that are consistently performing below the productivity target? 
+				If so, what might be the reasons?
+		- What are the peak months during which employees are most productive? 
+		- Are there any significant productivity drops during certain times of the day?
+		- Are there any correlations between employee training and productivity improvements?
+		- Do employees who undergo specific training perform better?
+		- Are there any correlations between employee training and productivity improvements? 
+		- Do employees who undergo specific training perform better?
+
+
+Bar Charts (Comparing categories)
+****Helpful for displaying metrics like sales by product, revenue by department, or performance of different teams.***
+Questions that are asked
+	- What is the distribution of a catergorical variable?
+	- How does the frequeency or count of different categories compare?
+	- Which category has the highest/lowest value?
+	- Are there any trends or patterns in the data?
+
+Pie Charts (Comparing parts of a whole)
+** Often used to represent the breakdown of expenses, allocation of resources, or market share
+Questions that are asked
+	- What proportion of the whole does each category represent?
+	- How does each category contribute to the total
+
+Line Charts (Changes over time)
+** Commonly used to represent metrics like website traffic, inventory levels or production output ***
+Questions that are asked
+	- How does a numerical varibale change over time?
+	- What are the trends or patterns in the data? 
+	- Are there any seasonal or cyclical variations?

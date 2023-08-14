@@ -1,0 +1,45 @@
+Bar Charts (Comparing categories)
+****Helpful for displaying metrics like sales by product, revenue by department, or performance of different teams.***
+Questions that are asked
+	- What is the distribution of a catergorical variable?
+	- How does the frequeency or count of different categories compare?
+	- Which category has the highest/lowest value?
+	- Are there any trends or patterns in the data?
+
+
+
+
+Pie Charts (Comparing parts of a whole)
+** Often used to represent the breakdown of expenses, allocation of resources, or market share
+Questions that are asked
+	- What proportion of the whole does each category represent?
+	- How does each category contribute to the total
+
+
+
+
+
+Line Charts (Changes over time)
+** Commonly used to represent metrics like website traffic, inventory levels or production output ***
+Questions that are asked
+	- How does a numerical varibale change over time?
+	- What are the trends or patterns in the data? 
+	- Are there any seasonal or cyclical variations?
+
+
+Area Charts (?)
+Questions that are asked
+	- How do different components contribute to the whole over time?
+	- What is the cumulative effect of differnt Variables? 
+
+
+Scatter Plots
+Questions that are asked
+	- Is there a relationship between two numerical variables?
+	- Are there any clusters or groupings in the data?
+	- Are there any outliers in the data? 
+
+
+Bullet Charts (?)
+** Designed o show a measure against qualitative ranges, such as tartget, actual and performance metrics
+Commonly used in operational reports to track project progress, milestones, and deadlines.
