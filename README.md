@@ -12,4 +12,5 @@ Analyze employee performance metrics, such as work output, task completion times
 
 
 1. Write a python script that shows the percentage of Completed on time tasks by Quarter than year
-2.
+2. Create a Visualizations to answer the questions above
+3. 
