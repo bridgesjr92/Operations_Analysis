@@ -11,6 +11,4 @@ Analyze employee performance metrics, such as work output, task completion times
     What is the age productive and non-productive hours for each month of year
 
 
-1. Write a python script that shows the percentage of Completed on time tasks by Quarter than year
-2. Create a Visualizations to answer the questions above
-3. 
+1. Create Visualizations to answer the questions above
